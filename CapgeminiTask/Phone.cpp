@@ -1,7 +1,7 @@
 #include <iostream>
 #include <list>
 #include <string>
-#include <../../../../../../capgeminiTask/CapgeminiTask/CapgeminiTask/Phone.h>
+#include "Phone.h"
 
 Phone::Phone() {
     string brandName = modelName = formFactor = "NULL";
